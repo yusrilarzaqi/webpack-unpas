@@ -1,4 +1,6 @@
-class AlertService {
+import { cekInputValid } from './utils/cekInputValid.js'
+
+export class AlertService {
   constructor() {
     this.error = document.querySelector('#error');
   }
@@ -16,5 +18,7 @@ class AlertService {
     this.error.innerText = hasil;
   };
 
-  sembunyikanError = () => this.error.classList.add('d-none');
+  sembunyikanError() {
+    this.error.classList.add('d-none');
+  }
 }

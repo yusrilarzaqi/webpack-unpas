@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelajar_webpack_code=self.webpackChunkbelajar_webpack_code||[]).push([[858],{540:(a,e,s)=>{var l=s(486),k=s.n(l)().find([{name:"Yusril Arzaqi",kelas:"TKJ2"},{name:"Bimo Alamsya",kelas:"TKJ2"},{name:"Adam Saputra",kelas:"TKJ2"},{name:"Dimas Rafif",kelas:"TKJ2"}],{name:"Dimas Rafif"});console.log(k)}},a=>{a(a.s=540)}]);

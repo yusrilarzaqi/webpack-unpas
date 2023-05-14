@@ -1,0 +1,15 @@
+$bg: rgb(95, 175, 215);
+$primary: rgb(95, 175, 215);
+$danger: crimson;
+
+@import 'bootstrap/scss/bootstrap';
+
+body {
+	background: $bg;
+}
+
+.logo {
+	width: 10em;
+	display: block;
+	margin: 20px auto;
+}
